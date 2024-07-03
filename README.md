@@ -1,5 +1,4 @@
-# URLBERT: A Contrastive and Adversarial Pre-trained Model for URL Classification
-This is an implementation of the paper - "URLBERT: A Contrastive and Adversarial Pre-trained Model for URL Classification"
+
 
 ### Overview
 
